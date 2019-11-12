@@ -1,1 +1,4 @@
-
+yarn build	Build all everything but the UI once.
+yarn build:watch	Build everything but the UI continuously.
+yarn build:clean	Remove JUST typescript build artifacts
+yarn cle
