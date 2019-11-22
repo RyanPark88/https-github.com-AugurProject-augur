@@ -1,11 +1,1 @@
-yarn build	
-
-yarn 
-build:watch	
-
-yarn 
-build:clean	
-
-yarn clean	
-
-yarn build:watch
+yarn create react-app my-app
